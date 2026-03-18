@@ -1,9 +1,24 @@
 name,skills,experience_years,industries,availability,tjm
-Marie Dupont,"digital transformation, cloud analytics, financial reporting, IFRS compliance, project management",9,"banking, insurance, fintech",available,1100
-Thomas Renard,"SAP implementation, supply chain, logistics optimization, ERP",12,"manufacturing, automotive, retail",available,950
-Sophie Martin,"legacy system migration, cloud infrastructure, IT architecture, vendor management",7,"banking, telecoms",available,1050
-Jean-Pierre Leroy,"HR strategy, talent acquisition, HRIS, change management",10,"consulting, FMCG",on mission,900
-Camille Bernard,"Basel III compliance, regulatory reporting, risk management, banking operations",8,"banking, private equity",available,1150
-Alexandre Petit,"marketing strategy, brand management, go-to-market, digital marketing",5,"luxury, cosmetics, FMCG",available,750
-Nicolas Faure,"financial reporting automation, Power BI, Excel VBA, data visualization",6,"banking, audit, consulting",available,850
-Isabelle Moreau,"change management, digital transformation, agile coaching, stakeholder management",11,"insurance, banking, retail",available,1000
+Laurent Mercier,"MOA/MOE project management, banking accounting, regulatory compliance, IFRS 9/16, Oracle GL OFUSION, SAP, financial reporting automation, SQL VBA Power BI",20,"banking, insurance, fintech",available,950
+Théodore Kamga,"PMO senior, IT project management, ERP Finance SAP/Oracle, cloud Azure, Power BI, budget CAPEX/OPEX, KPI/SLA governance, agile PMP PRINCE2",14,"banking, insurance, asset management",available,850
+Raphaël Saint-Clair,"Treasury management, payment systems, cash management, SWIFT/EBICS, TMS Finastra, ISO20022, PSP orchestration, project management, Power BI",13,"banking, hospitality, fintech",available,800
+Nicolas Forestier,"Business analyst financial services, PMO, Basel III/EBA compliance, trading book implementation, Solvency II, risk governance, UAT/SIT",4,"private banking, insurance, asset management",available,700
+Claire Benhamou,"Operational risk management, GDPR data protection, cybersecurity NIST, crisis management, audit recommendations, ORM",5,"banking, consulting",available,750
+Jean-Baptiste Imbert,"Senior manager audit interne, credit risk retail/corporate, ESG risk methodology, IFRS9, BCBS239, regulatory projects, EY background",17,"banking, BFI, asset management",available,1100
+Christophe Lacombe,"Market risk VaR/stress testing, pricing structured products equity derivatives, Python C++ VBA SQL, machine learning, regulatory reporting automation, Basel",20,"asset management, hedge funds, investment banking",available,1200
+Aminata Traoré,"Business analyst IT/Finance, data lake architecture, fixed income control, Simcorp Dimension, SQL Bloomberg Sophis, Lyxor BNP CIB background",12,"asset management, banking CIB",available,850
+Pierre-Emmanuel Leconte,"Capital markets, data governance BCBS239, credit risk data, FRTB/IMA market risk, Murex Calypso Bloomberg, Collibra, regulatory reporting COREP/FINREP",15,"banking CIB, capital markets",available,1050
+François Wandji,"PMP certified, IT transformation program director, AML/KYC compliance, IFRS9, AnaCredit, data lineage, agile@scale, bilingual French/English",20,"investment banking, asset management, retail banking",available,1000
+Abdel Ndiaye,"AMOA/MOE consultant, Oracle EPM Hyperion Essbase, budget planning PBCS Tagetik, financial reporting, SAP BO, SQL, controlling, business intelligence",25,"banking, insurance, energy, retail",available,800
+Jules Mensah,"MOA/MOE SAP S4HANA, project management PMO, controlling, budget consolidation SAP FICO, ERP implementation, agile, ESSEC Corporate Finance",14,"energy, industry, public sector, consulting",available,750
+Joana Costa,"Actuarial risk management, Solvency II Basel, Python R SAS SQL Power BI, credit risk RWA modelling, ICAAP, quantitative analysis, trilingual FR/EN/PT",7,"insurance, banking, asset management",available,700
+Georges Kono,"AMOA Finance, FP&A, budget planning tools Board Anaplan Tagetik SAP BPC, controlling, ERP transformation, EY Mazars background, ESSCA Grande Ecole",7,"transport, energy, construction, finance",available,750
+Kumar Patel,"Financial reporting IFRS, accounting consolidation, equity research, Tagetik Oracle ERP Bloomberg, management control, SAP S/4HANA, CFA foundations",4,"finance, asset management, banking",available,600
+Richard Léonard,"DAF groupe, financial transformation PMO, e-invoicing facturation électronique, ERP Coupa Microsoft Dynamics, P2P dématérialisation, Power BI, shared services",18,"retail, industry, services",available,900
+Montassar Hassini,"Order-to-Cash O2C expert, billing invoicing AR recouvrement, SAP Oracle Sage, e-invoicing Chorus Pro, cash flow forecasting, DSO reduction, Power BI, trilingual",17,"telecoms, transport, catering, IT services",available,800
+Yannick Dongo,"Chef de projet monétique, payment systems, ATM GAB protocols, TaaS SaaS platforms, ISO20022 EMVCo, C# Java PHP development, Sopra Steria background",7,"banking, fintech, payment systems",available,650
+Oussama Hassini,"Chef de projet AMOA monétique PMP certified, core banking BA, payment systems 3D Secure, test management UAT, MasterCard Visa protocols, bilingual FR/EN/AR",8,"banking, payment systems, fintech",available,750
+Thomas Poiret,"Consultant monétique, ATM recette testing, HP ALM Kanest, GAB project management, VBA developer, Galitt Crédit Agricole background",9,"banking, payment systems",available,600
+Fatima Zini,"Project manager monétique, payment card systems EMV, AMOA banking, budget management controlling, Société Générale background, trilingual FR/EN/AR",8,"banking, payment systems, insurance",available,700
+Nerry Nkomo,"QA/BA monétique consultant, ATM GAB homologation, SEPA payments SCT/SDD, test campaign management HP ALM Squash, Société Générale Partélya background",7,"banking, payment systems",available,650
+Amar Daubert,"Middle office payment systems TPE e-commerce, commercial banking advisor, BPCE Caisse Epargne background, client relationship, AMF certified",8,"banking, insurance, payment services",available,550
