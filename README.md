@@ -9,8 +9,7 @@
 Every consulting firm faces the same bottleneck.
 
 A client brief arrives. It requires a specific combination of sector expertise, 
-technical skills, and seniority. Your consultant database has the right profile 
-— somewhere. Finding it means hours of manual scanning, cross-referencing, 
+technical skills, and seniority. Your consultant database has the right profile somewhere. Finding it means hours of manual scanning, cross-referencing, 
 and shortlist building.
 
 That delay costs mandates. And it ties up the people who should be 
@@ -21,14 +20,14 @@ focused on clients.
 ## The Solution
 
 Consultant Matcher analyses a mission brief and instantly returns a ranked 
-shortlist of the most relevant profiles in your database — with a detailed 
+shortlist of the most relevant profiles in your database with a detailed 
 justification for each match.
 
 Not keyword matching. Semantic intelligence.
 
 The tool understands context. A consultant whose background is in 
 financial process automation is relevant to a digital transformation 
-mission — even if the exact words never appear on their CV.
+mission even if the exact words never appear on their CV.
 
 ---
 
@@ -37,7 +36,7 @@ mission — even if the exact words never appear on their CV.
 - **Top 3 ranked profiles** for any mission brief
 - **Match score out of 100** per consultant
 - **Detailed justification** explaining the fit
-- **Risk flags** — availability, day rate gaps, skill mismatches
+- **Risk flags** availability, day rate gaps, skill mismatches
 - **Results in under 30 seconds**
 
 ---
