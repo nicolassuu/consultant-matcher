@@ -58,6 +58,6 @@ Python · Anthropic API · pandas
 
 ## Status
 
-Working prototype — currently being validated with consulting firms in Paris.
+Working prototype ; currently being validated with consulting firms in Paris.
 
 Interested in a demo? → Connect on LinkedIn
