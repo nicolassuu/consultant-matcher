@@ -1,20 +1,64 @@
-# Consultant Matcher
+# Consultant Matcher — AI-Powered Staffing Intelligence
 
-AI-powered tool that matches freelance consultants to project briefs using Claude.
+> Match the right consultant to the right mission. In 30 seconds.
 
-## What it does
-Paste a client mission brief. The tool reads a consultant database and returns 
-the top 3 matches, ranked by fit, with detailed explanations in French.
+---
 
-## Why I built it
-I work in consulting staffing. Matching consultants to missions manually 
-takes hours. This tool does it in 30 seconds.
+## The Problem
 
-## Tech stack
-Python · Anthropic Claude API · pandas
+Every consulting firm faces the same bottleneck.
 
-## How to use
-1. Clone the repo
-2. pip3 install anthropic pandas python-dotenv
-3. Create a .env file with your ANTHROPIC_API_KEY
-4. python3 matcher.py
+A client brief arrives. It requires a specific combination of sector expertise, 
+technical skills, and seniority. Your consultant database has the right profile 
+— somewhere. Finding it means hours of manual scanning, cross-referencing, 
+and shortlist building.
+
+That delay costs mandates. And it ties up the people who should be 
+focused on clients.
+
+---
+
+## The Solution
+
+Consultant Matcher analyses a mission brief and instantly returns a ranked 
+shortlist of the most relevant profiles in your database — with a detailed 
+justification for each match.
+
+Not keyword matching. Semantic intelligence.
+
+The tool understands context. A consultant whose background is in 
+financial process automation is relevant to a digital transformation 
+mission — even if the exact words never appear on their CV.
+
+---
+
+## What You Get
+
+- **Top 3 ranked profiles** for any mission brief
+- **Match score out of 100** per consultant
+- **Detailed justification** explaining the fit
+- **Risk flags** — availability, day rate gaps, skill mismatches
+- **Results in under 30 seconds**
+
+---
+
+## Built For
+
+- Management consulting firms
+- Transition management cabinets
+- Finance and strategy boutiques
+- Any firm sourcing freelance consultants at volume
+
+---
+
+## Tech Stack
+
+Python · Anthropic API · pandas
+
+---
+
+## Status
+
+Working prototype — currently being validated with consulting firms in Paris.
+
+Interested in a demo? → Connect on LinkedIn
