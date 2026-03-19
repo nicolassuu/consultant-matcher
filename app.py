@@ -66,7 +66,11 @@ if st.button("Analyser", type="primary", use_container_width=True):
     if brief.strip() == "":
         st.warning("Veuillez entrer un brief de mission.")
     else:
-        with st.spinner("Analyse en cours..."):
-            result = match_consultants(brief)
-        st.divider()
-        st.markdown(result)
+        try:
+            with st.spinner("Analyse en cours..."):
+                result = match_consultants(brief)
+            st.divider()
+            st.markdown(result)
+        except Exception as e:
+            st.error("⚠️ Une erreur est survenue lors de l'analyse. Veuillez réessayer dans quelques instants.")
+            st.caption(f"Détail technique : {str(e)}")
