@@ -2,6 +2,8 @@
 
 > Match the right consultant to the right mission. In 30 seconds.
 
+🔗 **Live demo:** [consultant-matcher.streamlit.app](https://consultant-matcher.streamlit.app)
+
 ---
 
 ## The Problem
